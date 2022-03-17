@@ -1,0 +1,19 @@
+{
+  "name": "bonapp-band",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.1.4",
+    "mongoose": "^5.13.14"
+  }
+}
