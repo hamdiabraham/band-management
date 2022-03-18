@@ -10,3 +10,6 @@ setelah semua dependency terinstall maka langkah selanjutnya anda harus menyesua
 dan "PORT=", dimana anda port yang anda tentukan untuk menjalankan aplikasi ini
 
 setelah semua sudah disiapkan, maka jalankan command "npm run start" untuk menjalankan aplikasi ini
+
+berikut saya lampirkan documentasi postman
+https://documenter.getpostman.com/view/12609943/UVsPNPay
